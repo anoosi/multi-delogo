@@ -1,3 +1,9 @@
+## 2.4.0
+
+* Fixed bug that left ffmpeg executing even when cancel encoding was
+  selected.
+
+
 ## 2.3.0
 
 * Fixed bug that prevented the drawbox filter to be used because of
